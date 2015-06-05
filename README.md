@@ -15,3 +15,9 @@ This was created as an assignment for my Algorithms and Data Structures course. 
   4. and most importantly the VertexList
 
 #How the Custom trie looks:
+ http://i.imgur.com/clvMolM.png
+ 
+#Making life easier
+ After trying to build the graph I realized all I needed is the VertexList so I didn't even have to build the graph actually. I wont say more because it's neat when you realize why. 
+ 
+#if you have questions feel free to mesage me about the project. Maybe I was unclear on some parts or it got confusing. 
